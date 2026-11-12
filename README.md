@@ -2,7 +2,7 @@
  
 **Junior DevOps engineer** — I build small web services and take them to production: containerize, deploy, keep them running.
  
-Looking for a first DevOps / SRE / Platform role. <CITY or "Remote">, <TIMEZONE>.
+Looking for a first DevOps / SRE / Platform role. Remote, GMT+4.
  
 ## What I work with
  

@@ -23,9 +23,9 @@ Looking for a first DevOps / SRE / Platform role. Remote, GMT+4.
 
 ## Open source
 
-Docs fix in Meshery (CNCF): [PR #23185](https://github.com/meshery/meshery/pull/23185)
+Docs fix in Meshery (CNCF): [PR #23185](https://github.com/meshery/meshery/pull/23185) — merged
 
 ## Contact
  
 - Email: workeliseizaitsev@gmail.com
-- LinkedIn: [LinkedIn](https://www.linkedin.com/in/elisei-zaitsev/)
+- [LinkedIn](https://www.linkedin.com/in/elisei-zaitsev/)

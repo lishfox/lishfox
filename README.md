@@ -1,6 +1,6 @@
 # Hi, I'm Elisei Zaitsev (Lish) 👋
  
-**Junior DevOps engineer** — I build small web services and take them to production: containerize, deploy, keep them running.
+**DevOps engineer** — I build small web services and take them to production: containerize, deploy, keep them running.
  
 Looking for a first DevOps / SRE / Platform role. Remote, GMT+4.
  

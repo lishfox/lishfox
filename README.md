@@ -22,25 +22,10 @@ Looking for a first DevOps / SRE / Platform role. Remote, GMT+4.
 - **[Chat-Tailwind](https://github.com/lishfox/Chat-Tailwind)** — WebSocket chat with registration and a database, served over WSS on a remote server.
 
 ## Open source
- 
-Getting into the [Meshery](https://github.com/meshery/meshery) codebase (CNCF, cloud native management) — [Pull Request #23185](https://github.com/meshery/meshery/pull/23185).
+
+Docs fix in Meshery (CNCF): [PR #23185](https://github.com/meshery/meshery/pull/23185)
 
 ## Contact
  
 - Email: workeliseizaitsev@gmail.com
-- LinkedIn: linkedin.com/in/elisei-zaitsev/
-
-<!--
-**lishfox/lishfox** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- LinkedIn: [LinkedIn](https://www.linkedin.com/in/elisei-zaitsev/)
